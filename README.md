@@ -77,4 +77,6 @@ news_fetcher/
   - python manage.py createsuperuser
   - Then visit http://localhost:8000/admin/
  
-##Web Page Screenshots
+##Screenshots
+
+![image alt]()
