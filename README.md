@@ -75,4 +75,6 @@ news_fetcher/
 **Access Admin Interface:-
 - Create a superuser first:
   - python manage.py createsuperuser
-  - Then visit http://localhost:8000/admin/  
+  - Then visit http://localhost:8000/admin/
+ 
+##Web Page Screenshots
