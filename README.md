@@ -79,4 +79,4 @@ news_fetcher/
  
 ##Screenshots
 
-![image alt]()
+![image alt](https://github.com/jeet002/Auto-News-Fetcher-Dashboard/blob/cd939c04f278fbaa9795fc0f75e7cf4236ab307a/Auto_News_Fetcher_Dashboard.png)
